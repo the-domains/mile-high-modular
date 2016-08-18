@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.0325642516836524
 name: Mile High Modular
+navigation:
+  - name: Road to the Sky
+    url: 'http://www.kuxaan-sum.com'
+    type: external
 title: Modular Synthesizer Revival
 description: Patch It

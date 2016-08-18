@@ -4,8 +4,15 @@
         <description><![CDATA[Modular Synthesizer Revival]]></description>
         <link>https://thegrid.ai/mile-high-modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:25:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mile-high-modular/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PAiA - Analog Synthesizers 9700s]]></title>
+            <description><![CDATA[<article><h1>PAiA - Analog Synthesizers 9700s</h1><p>System level design also improves performance and lowers cost. Local voltage regulation and Star grounding on and between modules means a low noise floor and no parasitic modulations or interactions such as oscillator locking. Distributing costs like circuit boards, panels and power connectors across multiple elements dramatically lowers per element cost.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/751c444f1b42003f0eefdcb21db73c0f/noop.jpg?input=http%3A%2F%2Fwww.paia.com%2Fprodimages%2F9700-side-kit-mid.jpg"></article>]]></description>
+            <link>http://www.paia.com/p9700s.asp</link>
+            <guid isPermaLink="false">fc378126-55cd-4a9f-8959-a8faedc4bcce</guid>
+            <pubDate>Thu, 18 Aug 2016 22:25:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wiard]]></title>
             <description><![CDATA[<article><h1>Wiard</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e8070a7b4fabc26355e25d77262029a6/noop.jpg?input=http%3A%2F%2Fwww.wiard.com%2Fimages%2F311C-angle.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://randomsource.net/</link>
             <guid isPermaLink="false">661acc54-856c-4f4f-b670-cff52230a278</guid>
             <pubDate>Thu, 18 Aug 2016 22:23:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the harvestman: synthesizers and effects made in seattle]]></title>
-            <description><![CDATA[<article><h1>the harvestman: synthesizers and effects made in seattle</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa6ca8fdff549f282f91da9259ca35c1/noop.jpg?input=http%3A%2F%2Fwww.theharvestman.org%2Ffrontsplashnew.jpg"></article>]]></description>
-            <link>http://www.theharvestman.org/</link>
-            <guid isPermaLink="false">66aabffa-697e-4df2-a6ee-9dee0311a11e</guid>
-            <pubDate>Thu, 18 Aug 2016 22:17:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

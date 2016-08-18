@@ -4,8 +4,22 @@
         <description><![CDATA[Modular Synthesizer Revival]]></description>
         <link>https://thegrid.ai/mile-high-modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:23:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mile-high-modular/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buchla]]></title>
+            <description><![CDATA[<article><h1>Buchla</h1><p>Buchla Electronic Musical Instruments</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/784059d2e8c64b00bd439a40bd285e8f/noop.jpg?input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg"></article>]]></description>
+            <link>http://buchla.com/</link>
+            <guid isPermaLink="false">31d05515-ac97-4c5d-b306-7e2dd49f6818</guid>
+            <pubDate>Thu, 18 Aug 2016 22:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grayscale | Eurorack Synth Modules and Front Panels]]></title>
+            <description><![CDATA[<article><h1>Grayscale | Eurorack Synth Modules and Front Panels</h1><p>Eurorack synthesizer modules and DIY projects.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/89ce6f54ea48fbad73d547fdbd1ead2e/noop.jpg?input=http%3A%2F%2Fgrayscale.info%2Fimg%2Fphotos%2FD800_10790.jpg"></article>]]></description>
+            <link>http://grayscale.info/</link>
+            <guid isPermaLink="false">49efcd49-1605-404f-97b8-7af525bfcf9a</guid>
+            <pubDate>Thu, 18 Aug 2016 22:23:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Egres - The Unofficial Serge Page]]></title>
             <description><![CDATA[<article><h1>Egres - The Unofficial Serge Page</h1><p>This site is dedicated to everyone interested in Serge Modular Music Synthesizers</p></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.ninstrument.com/</link>
             <guid isPermaLink="false">b2256d2a-89d4-4b36-875e-839e37256953</guid>
             <pubDate>Thu, 18 Aug 2016 22:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DivKid's Month Of Modular Issue #9 June 2016]]></title>
-            <description><![CDATA[<article><h1>DivKid's Month Of Modular Issue #9 June 2016</h1><p>Another month another magazine! Lots of good stuff in this one including some awesome new T shirts a long interview and chat with Datach'i and plenty more!</p></article>]]></description>
-            <link>https://www.joomag.com/magazine/divkids-month-of-modular-issue-9-june-2016/0785771001466947534</link>
-            <guid isPermaLink="false">40c1bd6c-b023-4379-b8e1-4ca605c3cfa7</guid>
-            <pubDate>Thu, 18 Aug 2016 22:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Datach'i - Luminist Modular (Official Video)]]></title>
-            <description><![CDATA[<article><h1>Datach'i - Luminist Modular (Official Video)</h1><p>From the Datach'i album "System" Pre-Order: https://planetmu.bleepstores.com/release/73752-datachi-system https://datachi.bandcamp.com/album/system Physical pre-orders from the planet-mu store and bandcamp will receive a FREE limited edition 19 track bonus album on CD-R and will be automatically entered to win a modular starter kit by Tiptop Audio which includes a Z3000 MKII Smart VCO, Happy Ending Kit as well as a 20 percent discount on a one time purchase of additional modules.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fba0b015a05132011a95ef340959b07c/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FPp-GkFqhDUw%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Pp-GkFqhDUw</link>
-            <guid isPermaLink="false">4dd33053-fa20-4d89-82f6-a4ecdc5b8acc</guid>
-            <pubDate>Thu, 18 Aug 2016 22:10:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

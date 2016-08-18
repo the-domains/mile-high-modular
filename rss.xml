@@ -4,7 +4,7 @@
         <description><![CDATA[Modular Synthesizer Revival]]></description>
         <link>https://thegrid.ai/mile-high-modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:24:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mile-high-modular/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Plan your modular synthesizer rack on ModularGrid]]></title>
@@ -56,13 +56,6 @@
             <pubDate>Thu, 18 Aug 2016 22:23:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RandomSource.net - Serge Synthesizer and Analog Modular Synthesizer in 4U]]></title>
-            <description><![CDATA[<article><h1>RandomSource.net - Serge Synthesizer and Analog Modular Synthesizer in 4U</h1><p>Serge Modular, Ian Fritz and other analog Modules in 4U. Under licence from Serge Tcherepnin.</p><img src="http://randomsource.net/img/RandomSource_Boat_XL_E.jpg"></article>]]></description>
-            <link>http://randomsource.net/</link>
-            <guid isPermaLink="false">661acc54-856c-4f4f-b670-cff52230a278</guid>
-            <pubDate>Thu, 18 Aug 2016 22:23:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[the harvestman: synthesizers and effects made in seattle]]></title>
             <description><![CDATA[<article><h1>the harvestman: synthesizers and effects made in seattle</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa6ca8fdff549f282f91da9259ca35c1/noop.jpg?input=http%3A%2F%2Fwww.theharvestman.org%2Ffrontsplashnew.jpg"></article>]]></description>
             <link>http://www.theharvestman.org/</link>
@@ -75,6 +68,13 @@
             <link>https://malekkoheavyindustry.com/</link>
             <guid isPermaLink="false">3cd21585-d0cc-45d5-9859-c4ed0bd5b18a</guid>
             <pubDate>Thu, 18 Aug 2016 22:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make Noise Co. | Home]]></title>
+            <description><![CDATA[<article><h1>Make Noise Co. | Home</h1><p>(email: technical@makenoisemusic.com text: Contact Technical Support) (email: kelly@makenoisemusic.com text: Contact Sales) (email: media@makenoisemusic.com text: Contact Media / Marketing) (email: differenceclouds@gmail.com text: Report Website Error)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/83f586664f52e5d6941d3189f0c05115/noop.jpg?input=http%3A%2F%2Fwww.makenoisemusic.com%2Fthumbs%2Fsynthesizers%2Fshared-system%2Fsharedsystemblackgold-2400x1543-q50.jpg"></article>]]></description>
+            <link>http://www.makenoisemusic.com/</link>
+            <guid isPermaLink="false">ccdded13-0467-4139-9917-6ce39b628838</guid>
+            <pubDate>Thu, 18 Aug 2016 22:15:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

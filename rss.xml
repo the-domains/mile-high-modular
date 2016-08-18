@@ -4,7 +4,7 @@
         <description><![CDATA[Modular Synthesizer Revival]]></description>
         <link>https://thegrid.ai/mile-high-modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:25:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mile-high-modular/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PAiA - Analog Synthesizers 9700s]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.paia.com/p9700s.asp</link>
             <guid isPermaLink="false">fc378126-55cd-4a9f-8959-a8faedc4bcce</guid>
             <pubDate>Thu, 18 Aug 2016 22:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blacet Research Music Products--Modular Analog Music Synthesizers]]></title>
+            <description><![CDATA[<article><h1>Blacet Research Music Products--Modular Analog Music Synthesizers</h1><p>Modular Analog Music Synthesizers. Electronic modules in assembled and kit and kit form for musicians from a company with 20+ years of audio experience.</p><img src="http://www.blacet.com/FD3120fp.jpg"></article>]]></description>
+            <link>http://www.blacet.com/</link>
+            <guid isPermaLink="false">00451ec2-f7fb-4627-ba24-d9cf0f8230f9</guid>
+            <pubDate>Thu, 18 Aug 2016 22:24:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wiard]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.serge-fans.com/</link>
             <guid isPermaLink="false">95bae1a8-b3b9-49a6-a838-17e60a361f61</guid>
             <pubDate>Thu, 18 Aug 2016 22:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RandomSource.net - Serge Synthesizer and Analog Modular Synthesizer in 4U]]></title>
-            <description><![CDATA[<article><h1>RandomSource.net - Serge Synthesizer and Analog Modular Synthesizer in 4U</h1><p>Serge Modular, Ian Fritz and other analog Modules in 4U. Under licence from Serge Tcherepnin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7f954c7e0a07af693ad4d09d46ba9d1/noop.jpg?input=http%3A%2F%2Frandomsource.net%2Fimg%2FRandomSource_Boat_XL_E.jpg"></article>]]></description>
-            <link>http://randomsource.net/</link>
-            <guid isPermaLink="false">661acc54-856c-4f4f-b670-cff52230a278</guid>
-            <pubDate>Thu, 18 Aug 2016 22:23:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

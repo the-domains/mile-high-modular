@@ -4,8 +4,15 @@
         <description><![CDATA[Modular Synthesizer Revival]]></description>
         <link>https://thegrid.ai/mile-high-modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:24:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mile-high-modular/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Art + Music + Technology]]></title>
+            <description><![CDATA[<article><h1>Art + Music + Technology</h1><p>The Rocky Mountain Synthesizer Meetup - founded in 2012 - is the home of 480+ Denver Front Range synth geeks who share their passion for synths, build their network, get inspired, get hands-on with gear, tell people about projects and find collaborators.</p></article>]]></description>
+            <link>http://artmusictech.libsyn.com/</link>
+            <guid isPermaLink="false">13a7621f-6e96-4311-8050-f3c944a504f2</guid>
+            <pubDate>Thu, 18 Aug 2016 22:23:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MUFF WIGGLER :: Index]]></title>
             <description><![CDATA[<article><h1>MUFF WIGGLER :: Index</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/781fd54fe3beba0ef3ea2683f69f2a3f/noop.jpg?input=https%3A%2F%2Fwww.muffwiggler.com%2Fforum%2Fimages%2Fbanners%2Fcatslg.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.mysticcircuits.com/</link>
             <guid isPermaLink="false">c1f282fd-1c06-4098-a917-f03018a31da2</guid>
             <pubDate>Thu, 18 Aug 2016 22:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WMD]]></title>
-            <description><![CDATA[<article><h1>WMD</h1><p>The WMD Protostar is now available and shipping to dealers! If your favorite dealer doesn't have it, tell them to hit us up! More details on the Protostar HERE. Here's...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd7ea0d5cc16499a8e83770db96407d2/noop.png?input=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0977%2F3366%2Ft%2F1%2Fassets%2Flogo.png%3F1332658629247950719"></article>]]></description>
-            <link>http://wmdevices.com/</link>
-            <guid isPermaLink="false">c935d349-7ac1-4fa3-9d25-5ff6335c6e77</guid>
-            <pubDate>Thu, 18 Aug 2016 22:15:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

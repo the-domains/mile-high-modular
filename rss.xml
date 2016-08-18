@@ -4,8 +4,22 @@
         <description><![CDATA[Modular Synthesizer Revival]]></description>
         <link>https://thegrid.ai/mile-high-modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:23:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mile-high-modular/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Egres - The Unofficial Serge Page]]></title>
+            <description><![CDATA[<article><h1>Egres - The Unofficial Serge Page</h1><p>This site is dedicated to everyone interested in Serge Modular Music Synthesizers</p></article>]]></description>
+            <link>http://www.serge-fans.com/</link>
+            <guid isPermaLink="false">95bae1a8-b3b9-49a6-a838-17e60a361f61</guid>
+            <pubDate>Thu, 18 Aug 2016 22:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the harvestman: synthesizers and effects made in seattle]]></title>
+            <description><![CDATA[<article><h1>the harvestman: synthesizers and effects made in seattle</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa6ca8fdff549f282f91da9259ca35c1/noop.jpg?input=http%3A%2F%2Fwww.theharvestman.org%2Ffrontsplashnew.jpg"></article>]]></description>
+            <link>http://www.theharvestman.org/</link>
+            <guid isPermaLink="false">66aabffa-697e-4df2-a6ee-9dee0311a11e</guid>
+            <pubDate>Thu, 18 Aug 2016 22:17:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Malekko Heavy Industry]]></title>
             <description><![CDATA[<article><h1>Malekko Heavy Industry</h1><p>Malekko Heavy Industry - Creators and innovators in modular synthesizer designs and guitar pedals including the Ekko 616 delay pedals, Dual Borg filter, Omicron</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c2c1976846124c0acb0a2cad55c74d2b/noop.jpg?input=https%3A%2F%2Fmalekkoheavyindustry.com%2Fcontent%2Fuploads%2F2015%2F12%2FNAMM_Show_Anaheim-420x236.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=Pp-GkFqhDUw</link>
             <guid isPermaLink="false">4dd33053-fa20-4d89-82f6-a4ecdc5b8acc</guid>
             <pubDate>Thu, 18 Aug 2016 22:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harmonic Symmetry]]></title>
-            <description><![CDATA[<article><h1>Harmonic Symmetry</h1><p>Harmonic patch using the new MakeNoise tELHARMONIC is a Multi-Voice, Multi-Algorithm synthesizer, and 4ms Spectral Multiband Resonator. The master clock is the Tiptop Circadian Rhythms. Clock output running into the Modcan Touch Sequencer. Channel output one running into one intellijel Dixie (V1) for the bassline.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a7fb1301060da398ccf9f643816e8a84/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F530644036_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/136165676</link>
-            <guid isPermaLink="false">2e5aa5a3-5e46-4a5c-8451-c7fdec56bd2d</guid>
-            <pubDate>Thu, 18 Aug 2016 22:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Galatea is the space between here and there...]]></title>
-            <description><![CDATA[<article><h1>Galatea is the space between here and there...</h1><p>Chaos Computer sending CV to AFG & Morphing Terrarium and gates/triggers to A-149-1/A-149-2 & A-143-2. AFG to FrequenSteiner to A-132-3 VCA hit by 143-2 Morph T to A-132-3 VCA hit by separate channel of 143-2 Additional modulation by Dual Cyclotron, Vulcan Modulator and A-149-1/2 Reverb supplied by Soundcraft 124fx</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2bcd73445550eed5b7d6697b88133559/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0daIlKMV4VE%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=0daIlKMV4VE</link>
-            <guid isPermaLink="false">7f18c981-2053-4e97-9f3e-ecdb463354ea</guid>
-            <pubDate>Thu, 18 Aug 2016 22:09:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

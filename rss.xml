@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Modular Synthesizer Revival]]></title>
         <description><![CDATA[Modular Synthesizer Revival]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mile-high-modular/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:09:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 22:09:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mile-high-modular/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Galatea is the space between here and there...]]></title>
+            <description><![CDATA[<article><h1>Galatea is the space between here and there...</h1><p>Chaos Computer sending CV to AFG & Morphing Terrarium and gates/triggers to A-149-1/A-149-2 & A-143-2. AFG to FrequenSteiner to A-132-3 VCA hit by 143-2 Morph T to A-132-3 VCA hit by separate channel of 143-2 Additional modulation by Dual Cyclotron, Vulcan Modulator and A-149-1/2 Reverb supplied by Soundcraft 124fx</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2bcd73445550eed5b7d6697b88133559/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F0daIlKMV4VE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=0daIlKMV4VE</link>
+            <guid isPermaLink="false">7f18c981-2053-4e97-9f3e-ecdb463354ea</guid>
+            <pubDate>Thu, 18 Aug 2016 22:09:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MonoRocket MX6 Case: Patches 3 - StepNoise]]></title>
             <description><![CDATA[<article><h1>MonoRocket MX6 Case: Patches 3 - StepNoise</h1><p>Generative patch setup in MX6 case: MakeNoise Rene, Echophon, Optomix, DPO, 4ms RCD & Breakout, Intellijel FlipFlop, Circuit Abbey Unify & Doepfer A151</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd727831c99cc08599e75384eea1c6e3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FWZQoR6f4Qcs%2Fmaxresdefault.jpg"></article>]]></description>
